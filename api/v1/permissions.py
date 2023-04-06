@@ -13,4 +13,4 @@ class IsNotAuthenticated(permissions.BasePermission):
             return False
         return True
 
-        
+         
